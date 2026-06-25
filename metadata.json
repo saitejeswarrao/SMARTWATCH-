@@ -1,0 +1,6 @@
+{
+  "name": "GuardianWatch AI Health System",
+  "description": "An AI-powered smartwatch monitoring dashboard with real-time health alerts, anomaly detection, and smart coaching insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
